@@ -43,7 +43,7 @@ app.delete("/users", function (req, res) {
     res.send({
       data: true
     });
-  }, 2000);
+  }, 1000);
 });
 
 app.get("/", function (req, res) {
