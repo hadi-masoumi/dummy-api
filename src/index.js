@@ -6,11 +6,7 @@ var app = express();
 const port = process.env.PORT || 3000;
 
 app.use(bodyParser.urlencoded({extended: true}));
-
-//placeholders for added task
-var task = ["buy a new udemy course", "practise with kubernetes"];
-//placeholders for removed task
-var complete = ["finish reading the book"];
+app.set('view engine', 'jade');
 
 //post route for adding new task
 app.get("/users", function (req, res) {
