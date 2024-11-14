@@ -13,7 +13,36 @@ app.set('view engine', 'jade');
 
 app.get("/users", function (req, res) {
   setTimeout(() => {
-    res.send(usersJSON);
+    res.send({
+      data: usersJSON
+    });
+  }, 2000);
+});
+
+app.post("/users", function (req, res) {
+  setTimeout(() => {
+    res.status(201);
+    res.send({
+      data: true
+    });
+  }, 2000);
+});
+
+app.put("/users", function (req, res) {
+  setTimeout(() => {
+    res.status(200);
+    res.send({
+      data: true
+    });
+  }, 2000);
+});
+
+app.delete("/users", function (req, res) {
+  setTimeout(() => {
+    res.status(200);
+    res.send({
+      data: true
+    });
   }, 2000);
 });
 
