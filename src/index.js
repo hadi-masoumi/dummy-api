@@ -1,12 +1,15 @@
 const usersJSON = require("./data/users.json"); // Use require for JSON import
 //dependencies required for the app
 var express = require("express");
+var cors = require('cors')
 var bodyParser = require("body-parser");
 var app = express();
 const port = process.env.PORT || 3000;
 
 app.use(bodyParser.urlencoded({extended: true}));
+app.use(cors())
 app.set('view engine', 'jade');
+
 
 app.get("/users", function (req, res) {
   setTimeout(() => {
