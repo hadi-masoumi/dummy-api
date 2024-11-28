@@ -34,7 +34,7 @@ app.put("/users", function (req, res) {
     res.send({
       data: true
     });
-  }, 2000);
+  }, 100);
 });
 
 app.delete("/users", function (req, res) {
