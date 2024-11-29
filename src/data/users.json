@@ -35,7 +35,7 @@
     "LastLoginOn": "2024-07-21T15:12:36.023",
     "CampaignId": 201,
     "CampaignName": "Campaign 2",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 3,
@@ -73,7 +73,7 @@
     "LastLoginOn": "2024-07-23T17:12:36.023",
     "CampaignId": 203,
     "CampaignName": "Campaign 4",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 5,
@@ -111,7 +111,7 @@
     "LastLoginOn": "2024-07-25T19:12:36.023",
     "CampaignId": 205,
     "CampaignName": "Campaign 6",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 7,
@@ -149,7 +149,7 @@
     "LastLoginOn": "2024-07-27T21:12:36.023",
     "CampaignId": 207,
     "CampaignName": "Campaign 8",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 9,
@@ -187,7 +187,7 @@
     "LastLoginOn": "2024-07-29T23:12:36.023",
     "CampaignId": 209,
     "CampaignName": "Campaign 10",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 11,
@@ -225,7 +225,7 @@
     "LastLoginOn": "2024-07-31T01:12:36.023",
     "CampaignId": 281,
     "CampaignName": "Campaign 2",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 13,
@@ -263,7 +263,7 @@
     "LastLoginOn": "2024-08-02T03:12:36.023",
     "CampaignId": 283,
     "CampaignName": "Campaign 4",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 15,
@@ -301,7 +301,7 @@
     "LastLoginOn": "2024-08-04T05:12:36.023",
     "CampaignId": 285,
     "CampaignName": "Campaign 6",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 17,
@@ -339,7 +339,7 @@
     "LastLoginOn": "2024-08-06T07:12:36.023",
     "CampaignId": 287,
     "CampaignName": "Campaign 8",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 19,
@@ -377,7 +377,7 @@
     "LastLoginOn": "2024-08-08T09:12:36.023",
     "CampaignId": 289,
     "CampaignName": "Campaign 10",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 21,
@@ -415,7 +415,7 @@
     "LastLoginOn": "2024-08-10T11:12:36.023",
     "CampaignId": 291,
     "CampaignName": "Campaign 12",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 23,
@@ -453,7 +453,7 @@
     "LastLoginOn": "2024-08-12T13:12:36.023",
     "CampaignId": 293,
     "CampaignName": "Campaign 14",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 25,
@@ -491,7 +491,7 @@
     "LastLoginOn": "2024-08-14T15:12:36.023",
     "CampaignId": 295,
     "CampaignName": "Campaign 16",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 27,
@@ -529,7 +529,7 @@
     "LastLoginOn": "2024-08-16T17:12:36.023",
     "CampaignId": 297,
     "CampaignName": "Campaign 18",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 29,
@@ -567,7 +567,7 @@
     "LastLoginOn": "2024-08-18T19:12:36.023",
     "CampaignId": 299,
     "CampaignName": "Campaign 20",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 31,
@@ -605,7 +605,7 @@
     "LastLoginOn": "2024-08-20T21:12:36.023",
     "CampaignId": 301,
     "CampaignName": "Campaign 22",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 33,
@@ -643,7 +643,7 @@
     "LastLoginOn": "2024-08-22T00:12:36.023",
     "CampaignId": 303,
     "CampaignName": "Campaign 24",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 35,
@@ -681,7 +681,7 @@
     "LastLoginOn": "2024-08-24T02:12:36.023",
     "CampaignId": 305,
     "CampaignName": "Campaign 26",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 37,
@@ -719,7 +719,7 @@
     "LastLoginOn": "2024-08-26T04:12:36.023",
     "CampaignId": 307,
     "CampaignName": "Campaign 28",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 39,
@@ -757,7 +757,7 @@
     "LastLoginOn": "2024-08-28T06:12:36.023",
     "CampaignId": 309,
     "CampaignName": "Campaign 30",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 41,
@@ -795,7 +795,7 @@
     "LastLoginOn": "2024-08-30T08:12:36.023",
     "CampaignId": 311,
     "CampaignName": "Campaign 32",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 43,
@@ -833,7 +833,7 @@
     "LastLoginOn": "2024-09-01T10:12:36.023",
     "CampaignId": 313,
     "CampaignName": "Campaign 34",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 45,
@@ -871,7 +871,7 @@
     "LastLoginOn": "2024-09-03T12:12:36.023",
     "CampaignId": 315,
     "CampaignName": "Campaign 36",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 47,
@@ -909,7 +909,7 @@
     "LastLoginOn": "2024-09-05T14:12:36.023",
     "CampaignId": 317,
     "CampaignName": "Campaign 38",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 49,
@@ -947,7 +947,7 @@
     "LastLoginOn": "2024-09-07T16:12:36.023",
     "CampaignId": 319,
     "CampaignName": "Campaign 40",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 51,
@@ -985,7 +985,7 @@
     "LastLoginOn": "2024-09-09T18:12:36.023",
     "CampaignId": 321,
     "CampaignName": "Campaign 42",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 53,
@@ -1023,7 +1023,7 @@
     "LastLoginOn": "2024-09-11T20:12:36.023",
     "CampaignId": 323,
     "CampaignName": "Campaign 44",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 55,
@@ -1061,7 +1061,7 @@
     "LastLoginOn": "2024-09-13T22:12:36.023",
     "CampaignId": 325,
     "CampaignName": "Campaign 46",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 57,
@@ -1099,7 +1099,7 @@
     "LastLoginOn": "2024-09-15T00:12:36.023",
     "CampaignId": 327,
     "CampaignName": "Campaign 48",
-    "Status": "Inactive"
+    "Status": "Passive"
   },
   {
     "UserId": 59,
@@ -1137,7 +1137,7 @@
     "LastLoginOn": "2024-09-17T02:12:36.023",
     "CampaignId": 329,
     "CampaignName": "Campaign 50",
-    "Status": "Inactive"
+    "Status": "Passive"
   }  
 ]  
 
